@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName= Pin=-
+Removed Pin From Net: NetName= Pin=U1-
+Change Component Designator: OldDesignator=FB1 NewDesignator=FB1
+Add Pin To Net: Unknown Pin: Pin -2
+Add Pin To Net: Unknown Pin: Pin U1-49
