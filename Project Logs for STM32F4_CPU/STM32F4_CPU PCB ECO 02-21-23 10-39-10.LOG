@@ -1,0 +1,24 @@
+Remove Pin from Net: Unknown Net : N000-1
+Remove Pin from Net: Unknown Net : N000-1
+Remove Pin from Net: Unknown Net : N000-1
+Remove Pin from Net: Unknown Net : N000-1
+Remove Pin from Net: Unknown Net : N000-1
+Remove Pin from Net: Unknown Net : N000-1
+Remove Pin from Net: Unknown Net : N000-1
+Remove Pin from Net: Unknown Net : N000-1
+Change Net Name : Old Net Name=IMU_CPOUT New Net Name=IMU_CPOUT
+Change Net Name : Old Net Name=MCU_VCAP1 New Net Name=MCU_VCAP1
+Change Net Name : Old Net Name= New Net Name=GND
+Change Net Name : Old Net Name=USB_D_N New Net Name=USB_D_N
+Change Net Name : Old Net Name=USB_D_P New Net Name=USB_D_P
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Net: Name=GND
+Added Differential Pair: Name=USB_D
+Added Class: Name=USB_DIFF
