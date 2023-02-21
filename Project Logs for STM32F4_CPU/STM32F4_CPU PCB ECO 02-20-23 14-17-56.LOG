@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=+3V3 Pin=U1-1
+Removed Pin From Net: NetName=MCU_OSC_IN Pin=U1-5
+Removed Pin From Net: NetName=MCU_OSC_OUT Pin=U1-6
+Removed Pin From Net: NetName=MCU_NRST Pin=U1-7
+Removed Pin From Net: NetName= Pin=U1-8
+Removed Pin From Net: NetName=+3V3 Pin=U1-9
+Removed Pin From Net: NetName=MCU_PA4 Pin=U1-14
+Removed Pin From Net: NetName=MCU_PA5 Pin=U1-15
+Removed Pin From Net: NetName=MCU_PA6 Pin=U1-16
+Removed Pin From Net: NetName=MCU_PA7 Pin=U1-17
+Removed Pin From Net: NetName=MCU_VCAP1 Pin=U1-22
+Removed Pin From Net: NetName= Pin=U1-23
+Removed Pin From Net: NetName=+3V3 Pin=U1-24
+Removed Pin From Net: NetName=MCU_LED_A Pin=U1-26
+Removed Pin From Net: NetName=USB_D_N Pin=U1-32
+Removed Pin From Net: NetName=USB_D_P Pin=U1-33
+Removed Pin From Net: NetName=MCU_SWDIO Pin=U1-34
+Removed Pin From Net: NetName= Pin=U1-35
+Removed Pin From Net: NetName=+3V3 Pin=U1-36
+Removed Pin From Net: NetName=MCU_SWCLK Pin=U1-37
+Removed Pin From Net: NetName=MCU_SWO Pin=U1-39
+Removed Pin From Net: NetName=IMU_SCL Pin=U1-42
+Removed Pin From Net: NetName=IMU_SDA Pin=U1-43
+Removed Pin From Net: NetName=MCU_BOOT0 Pin=U1-44
+Removed Pin From Net: NetName=IMU_INT Pin=U1-45
+Removed Pin From Net: NetName= Pin=U1-47
+Removed Pin From Net: NetName=+3V3 Pin=U1-48
+Removed Pin From Net: NetName= Pin=U1-49
+Removed Pin From Net: NetName= Pin=U2-1
+Removed Pin From Net: NetName=+3V3 Pin=U2-8
+Removed Pin From Net: NetName= Pin=U2-9
+Removed Pin From Net: NetName= Pin=U2-11
+Removed Pin From Net: NetName=IMU_INT Pin=U2-12
+Removed Pin From Net: NetName=+3V3 Pin=U2-13
+Removed Pin From Net: NetName= Pin=U2-18
+Removed Pin From Net: NetName=IMU_CPOUT Pin=U2-20
+Removed Pin From Net: NetName=IMU_SCL Pin=U2-23
+Removed Pin From Net: NetName=IMU_SDA Pin=U2-24
+Added Component: Designator=U1(STM-UFQFPN48_L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "UFQFPN48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "48-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 7 x 7 x 0.6 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.7"; VariantName = "[No Variations]"
+Added Component: Designator=U2(IS-QFN-24_V)
+Add component (AddParameter): Name = "Category"; Value = "Sensors,Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/MPU-6050-InvenSense-datasheet-14421344.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3.3, 05/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Multifunction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "MPU-60506-Axis,IntegratedI²CSolution"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.invensense.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "1428-1007-2
+MPU6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "MotionTracking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "5,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit PriceUSD"; Value = "Digital"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=MCU_OSC_IN Pin=U1-5
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=MCU_NRST Pin=U1-7
+Added Pin To Net: NetName= Pin=U1-8
+Added Pin To Net: NetName=+3V3 Pin=U1-9
+Added Pin To Net: NetName=MCU_PA4 Pin=U1-14
+Added Pin To Net: NetName=MCU_PA5 Pin=U1-15
+Added Pin To Net: NetName=MCU_PA6 Pin=U1-16
+Added Pin To Net: NetName=MCU_PA7 Pin=U1-17
+Added Pin To Net: NetName=MCU_VCAP1 Pin=U1-22
+Added Pin To Net: NetName= Pin=U1-23
+Added Pin To Net: NetName=+3V3 Pin=U1-24
+Added Pin To Net: NetName=MCU_LED_A Pin=U1-26
+Added Pin To Net: NetName=USB_D_N Pin=U1-32
+Added Pin To Net: NetName=USB_D_P Pin=U1-33
+Added Pin To Net: NetName=MCU_SWDIO Pin=U1-34
+Added Pin To Net: NetName= Pin=U1-35
+Added Pin To Net: NetName=+3V3 Pin=U1-36
+Added Pin To Net: NetName=MCU_SWCLK Pin=U1-37
+Added Pin To Net: NetName=MCU_SWO Pin=U1-39
+Added Pin To Net: NetName=IMU_SCL Pin=U1-42
+Added Pin To Net: NetName=IMU_SDA Pin=U1-43
+Added Pin To Net: NetName=MCU_BOOT0 Pin=U1-44
+Added Pin To Net: NetName=IMU_INT Pin=U1-45
+Added Pin To Net: NetName= Pin=U1-47
+Added Pin To Net: NetName=+3V3 Pin=U1-48
+Added Pin To Net: NetName= Pin=U1-49
+Added Pin To Net: NetName= Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-8
+Added Pin To Net: NetName= Pin=U2-9
+Added Pin To Net: NetName= Pin=U2-11
+Added Pin To Net: NetName=IMU_INT Pin=U2-12
+Added Pin To Net: NetName=+3V3 Pin=U2-13
+Added Pin To Net: NetName= Pin=U2-18
+Added Pin To Net: NetName=IMU_CPOUT Pin=U2-20
+Added Pin To Net: NetName=IMU_SCL Pin=U2-23
+Added Pin To Net: NetName=IMU_SDA Pin=U2-24
+Added Pin To Net: NetName= Pin=U2-25
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-10
+Added Net: Name=NetC1_2

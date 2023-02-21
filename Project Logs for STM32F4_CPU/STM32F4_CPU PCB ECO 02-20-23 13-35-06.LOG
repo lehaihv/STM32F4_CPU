@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=FB1 NewDesignator=FB1
+Change Component Designator: OldDesignator=U1 NewDesignator=U1
+Change Component Designator: OldDesignator=U2 NewDesignator=U2
+Add Pin To Net: Unknown Net : N000-1
+Change Net Name : Old Net Name=IMU_CPOUT New Net Name=IMU_CPOUT
+Change Net Name : Old Net Name=MCU_VCAP1 New Net Name=MCU_VCAP1
+Change Net Name : Old Net Name= New Net Name=
+Change Net Name : Old Net Name=USB_D_N New Net Name=USB_D_N
+Change Net Name : Old Net Name=USB_D_P New Net Name=USB_D_P
+Added Differential Pair: Name=USB_D
+Added Class: Name=USB_DIFF
